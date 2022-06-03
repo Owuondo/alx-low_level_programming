@@ -1,24 +1,11 @@
-include <stdio.h>
-
-
+#include <stdio.h>
 /**
+ * main - Function starts
  *
- *  * main - Function starts
- *
- *   *
- *
- *    * Return: Function closes
- *
- *     */
-
-
-
+ * Return: Function closes
+ */
 int main(void)
-
 {
-
-		puts("\"Programming is like building a multilingual puzzle");
-
-			return (0);
-
+	puts("\"programming is like building multilingual puzzle");
+	return (0)
 }
